@@ -1,16 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
+    <title>Tags | Khaled Boulbrachene</title>
     <link>https://KhaledBoulbrachene.github.io/tags/</link>
       <atom:link href="https://KhaledBoulbrachene.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://KhaledBoulbrachene.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>CFD</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/cfd/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/cfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Analysis</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/structural-analysis/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/structural-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Fluid Dynamics</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/computational-fluid-dynamics/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/computational-fluid-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluid Structure Interaction</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/fluid-structure-interaction/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/fluid-structure-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical analysis</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/numerical-analysis/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/numerical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FEM</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/fem/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/fem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transient FEM</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/transient-fem/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/transient-fem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formfinding</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/formfinding/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/formfinding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IGA</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/iga/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/iga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Design</title>
+      <link>https://KhaledBoulbrachene.github.io/tags/structural-design/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/tags/structural-design/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

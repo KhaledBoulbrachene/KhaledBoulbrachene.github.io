@@ -3,11 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://KhaledBoulbrachene.github.io/authors/admin/</loc>
+    <loc>https://KhaledBoulbrachene.github.io/tags/cfd/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/structural-analysis/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/wind/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/computational-fluid-dynamics/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/fluid-structure-interaction/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/fv_ib/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/numerical-analysis/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/fem/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/fcm/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/transient-fem/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/formfinding/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/iga/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/trimmed/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/bachelor/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/structural-design/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -32,10 +118,6 @@
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/</loc>
   </url>
   
 </urlset>
