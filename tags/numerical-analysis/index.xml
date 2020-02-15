@@ -5,7 +5,7 @@
     <link>https://KhaledBoulbrachene.github.io/tags/numerical-analysis/</link>
       <atom:link href="https://KhaledBoulbrachene.github.io/tags/numerical-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Numerical analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Numerical analysis</title>
@@ -15,11 +15,11 @@
     <item>
       <title>Implementation of an Immersed Boundary Method for a fourth-order Finite Volume Scheme, Master Thesis</title>
       <link>https://KhaledBoulbrachene.github.io/project/fv_ib/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://KhaledBoulbrachene.github.io/project/fv_ib/</guid>
       <description>&lt;p&gt;Based on the work of 
-&lt;a href=&#34;https://www.researchgate.net/publication/222652710_Compact_Fourth-Order_Finite-Volume_Method_for_Numerical_Solutions_of_Navier-Stokes_Equations_on_Staggered_Grids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arpiruk Hokpunna, 2010*&lt;/a&gt;, 
-&lt;a href=&#34;https://www.researchgate.net/publication/222298105_An_Immersed_Boundary_Method_with_Direct_Forcing_for_the_Simulation_of_Particulate_Flows&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markus Uhlmann, 2005*&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.researchgate.net/publication/222652710_Compact_Fourth-Order_Finite-Volume_Method_for_Numerical_Solutions_of_Navier-Stokes_Equations_on_Staggered_Grids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arpiruk Hokpunna, 2010&lt;/a&gt;, 
+&lt;a href=&#34;https://www.researchgate.net/publication/222298105_An_Immersed_Boundary_Method_with_Direct_Forcing_for_the_Simulation_of_Particulate_Flows&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markus Uhlmann, 2005&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A second-order and fourth-order discretization schemes for the incompressible Navier-
 Stokes equations on staggered grids are implemented. Two spatial dimensions are considered
 and the discretizations are carried out for Cartesian uniform and non-uniform grids. Imple-

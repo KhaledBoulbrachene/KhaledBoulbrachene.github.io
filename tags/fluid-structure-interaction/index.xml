@@ -5,7 +5,7 @@
     <link>https://KhaledBoulbrachene.github.io/tags/fluid-structure-interaction/</link>
       <atom:link href="https://KhaledBoulbrachene.github.io/tags/fluid-structure-interaction/index.xml" rel="self" type="application/rss+xml" />
     <description>Fluid Structure Interaction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Fluid Structure Interaction</title>
@@ -13,28 +13,11 @@
     </image>
     
     <item>
-      <title>Implementation of an Immersed Boundary Method for a fourth-order Finite Volume Scheme, Master Thesis</title>
-      <link>https://KhaledBoulbrachene.github.io/project/fv_ib/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://KhaledBoulbrachene.github.io/project/fv_ib/</guid>
-      <description>&lt;p&gt;Based on the work of 
-&lt;a href=&#34;https://www.researchgate.net/publication/222652710_Compact_Fourth-Order_Finite-Volume_Method_for_Numerical_Solutions_of_Navier-Stokes_Equations_on_Staggered_Grids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arpiruk Hokpunna, 2010*&lt;/a&gt;, 
-&lt;a href=&#34;https://www.researchgate.net/publication/222298105_An_Immersed_Boundary_Method_with_Direct_Forcing_for_the_Simulation_of_Particulate_Flows&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markus Uhlmann, 2005*&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A second-order and fourth-order discretization schemes for the incompressible Navier-
-Stokes equations on staggered grids are implemented. Two spatial dimensions are considered
-and the discretizations are carried out for Cartesian uniform and non-uniform grids. Imple-
-mentations are then verified and the order of accuracy of the adopted spatial and temporal
-discretization schemes is validated. Next, an Immersed Boundary method (IBM) with a
-direct forcing strategy is integrated with both flow solvers to simulate fluid-solid interac-
-tion problems. The continuous IB method employs a smoothed approximation of the Dirac
-delta function with a specific order of accuracy to smear (regularize) the immersed boundary
-forces over the adjacent fluid cells. The accuracy of the solver then becomes dependent on
-the order at which the coupling quantities are interpolated. In the literature, there exist dif-
-ferent second-order regularized delta-function variants which are well-suited to use with the
-second-order finite volume solver. However, an appropriate fourth-order regularized delta
-function is not available and its detailed derivation is presented. At last, several numeri-
-cal tests with smooth and non-smooth velocity fields are conducted to observe the rate of
-convergence achieved of both IBM solvers.&lt;/p&gt;
+      <title>Immersed Boundary pisoFoam Solver</title>
+      <link>https://KhaledBoulbrachene.github.io/project/ib_openfoam/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/project/ib_openfoam/</guid>
+      <description>&lt;p&gt;To address the computations of solid particles in a fluid flow, one has to solve the transient Navier-Stokes (NS) equations in the fluid domain with the imposition of no-slip boundary condition at the interface between the fluid domain and the solid object. One way to achieve this is by the application of arbitrary Lagrangian-Eulerian method, which combines the advantages of both Lagrangian descripton following an individual parcel as it moves through space and Eulerian description focusing on specific locations in the space. However, this method requires adaptive meshing depending on solid particles displacements as time evolves and therefore leads to a substantial computational cost. To avoid repeated re-meshing, the whole computational domain containing the fluid and the solid is meshed with a fixed structured cartesian grid. As a result, the grid will most probably not conform to the solids boundary. Here, the introduction of the solid phase to the governing flow equations is achieved by adequately formulating a source term.&lt;/p&gt;
 </description>
     </item>
     

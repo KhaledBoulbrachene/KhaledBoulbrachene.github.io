@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/cfd/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <loc>https://KhaledBoulbrachene.github.io/tags/computational-fluid-dynamics/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/immersed-boundary-method/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/fv_ib/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/numerical-analysis/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/project/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/fluid-structure-interaction/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/ib_openfoam/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/openfoam/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/wind/</loc>
     <lastmod>2019-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,81 +63,133 @@
   </url>
   
   <url>
-    <loc>https://KhaledBoulbrachene.github.io/project/wind/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <loc>https://KhaledBoulbrachene.github.io/tags/abaqus/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/computational-fluid-dynamics/</loc>
-    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/fluid-structure-interaction/</loc>
-    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/project/fv_ib/</loc>
-    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/numerical-analysis/</loc>
-    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/fem/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <loc>https://KhaledBoulbrachene.github.io/tags/finite-cell-method/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/project/fcm/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/transient-fem/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/formfinding/</loc>
-    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/iga/</loc>
-    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/project/trimmed/</loc>
-    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/project/bachelor/</loc>
-    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/tags/structural-design/</loc>
-    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/authors/admin/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/publication_types/2/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/authors/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/bottom-hole-assembly/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/drill-pipe/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/drilling/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/publication/journal-article/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/authors/edris-m.hassan/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/fatigue/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/publication/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/authors/jamil-abdo/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/authors/jan-kwak/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/publication_types/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/formfinding/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/trimmed/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/isogeometric-analysis/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/publication_types/1/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/publication/conf-article/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/project/bachelor/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/drill-pipes/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/fatigue-failure/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/mechanical-design/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KhaledBoulbrachene.github.io/tags/vibration/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -106,14 +198,6 @@
   
   <url>
     <loc>https://KhaledBoulbrachene.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://KhaledBoulbrachene.github.io/publication/</loc>
   </url>
   
   <url>
