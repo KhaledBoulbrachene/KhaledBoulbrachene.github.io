@@ -14,9 +14,9 @@
     
     <item>
       <title>Implementation of the Finite Cell Method (FCM) into a commercial Finite Element software</title>
-      <link>https://KhaledBoulbrachene.github.io/project/fcm/</link>
+      <link>https://KhaledBoulbrachene.github.io/project/softwarelab/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://KhaledBoulbrachene.github.io/project/fcm/</guid>
+      <guid>https://KhaledBoulbrachene.github.io/project/softwarelab/</guid>
       <description>&lt;p&gt;the Finite-cell method has been implemented in ABAQUS, a commercial FEM based software. Python scripts were used to automate the modelling setup, as well as performing the necessary adaptive integration of this embedded domain method to evaluate elements stiffness matrices. The user defined element (UEL) feature of ABAQUS was then employed to incorporate the custom elements via Fortran sub-routines.&lt;/p&gt;
 </description>
     </item>

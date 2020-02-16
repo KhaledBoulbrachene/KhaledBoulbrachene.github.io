@@ -14,9 +14,9 @@
     
     <item>
       <title>Implementation of an Immersed Boundary Method for a fourth-order Finite Volume Scheme, Master Thesis</title>
-      <link>https://KhaledBoulbrachene.github.io/project/fv_ib/</link>
+      <link>https://KhaledBoulbrachene.github.io/project/master/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://KhaledBoulbrachene.github.io/project/fv_ib/</guid>
+      <guid>https://KhaledBoulbrachene.github.io/project/master/</guid>
       <description>&lt;p&gt;Based on the work of 
 &lt;a href=&#34;https://www.researchgate.net/publication/222652710_Compact_Fourth-Order_Finite-Volume_Method_for_Numerical_Solutions_of_Navier-Stokes_Equations_on_Staggered_Grids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arpiruk Hokpunna, 2010&lt;/a&gt;, 
 &lt;a href=&#34;https://www.researchgate.net/publication/222298105_An_Immersed_Boundary_Method_with_Direct_Forcing_for_the_Simulation_of_Particulate_Flows&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markus Uhlmann, 2005&lt;/a&gt;&lt;/p&gt;
@@ -40,9 +40,9 @@ convergence achieved of both IBM solvers.&lt;/p&gt;
     
     <item>
       <title>Immersed Boundary pisoFoam Solver</title>
-      <link>https://KhaledBoulbrachene.github.io/project/ib_openfoam/</link>
+      <link>https://KhaledBoulbrachene.github.io/project/openfoam/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://KhaledBoulbrachene.github.io/project/ib_openfoam/</guid>
+      <guid>https://KhaledBoulbrachene.github.io/project/openfoam/</guid>
       <description>&lt;p&gt;To address the computations of solid particles in a fluid flow, one has to solve the transient Navier-Stokes (NS) equations in the fluid domain with the imposition of no-slip boundary condition at the interface between the fluid domain and the solid object. One way to achieve this is by the application of arbitrary Lagrangian-Eulerian method, which combines the advantages of both Lagrangian descripton following an individual parcel as it moves through space and Eulerian description focusing on specific locations in the space. However, this method requires adaptive meshing depending on solid particles displacements as time evolves and therefore leads to a substantial computational cost. To avoid repeated re-meshing, the whole computational domain containing the fluid and the solid is meshed with a fixed structured cartesian grid. As a result, the grid will most probably not conform to the solids boundary. Here, the introduction of the solid phase to the governing flow equations is achieved by adequately formulating a source term.&lt;/p&gt;
 </description>
     </item>
