@@ -22,18 +22,14 @@
 &lt;a href=&#34;https://www.researchgate.net/publication/222298105_An_Immersed_Boundary_Method_with_Direct_Forcing_for_the_Simulation_of_Particulate_Flows&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markus Uhlmann, 2005&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A second-order and fourth-order discretization schemes for the incompressible Navier-
 Stokes equations on staggered grids are implemented. Two spatial dimensions are considered
-and the discretizations are carried out for Cartesian uniform and non-uniform grids. Imple-
-mentations are then verified and the order of accuracy of the adopted spatial and temporal
+and the discretizations are carried out for Cartesian uniform and non-uniform grids. Implementations are then verified and the order of accuracy of the adopted spatial and temporal
 discretization schemes is validated. Next, an Immersed Boundary method (IBM) with a
-direct forcing strategy is integrated with both flow solvers to simulate fluid-solid interac-
-tion problems. The continuous IB method employs a smoothed approximation of the Dirac
+direct forcing strategy is integrated with both flow solvers to simulate fluid-solid interaction problems. The continuous IB method employs a smoothed approximation of the Dirac
 delta function with a specific order of accuracy to smear (regularize) the immersed boundary
 forces over the adjacent fluid cells. The accuracy of the solver then becomes dependent on
-the order at which the coupling quantities are interpolated. In the literature, there exist dif-
-ferent second-order regularized delta-function variants which are well-suited to use with the
+the order at which the coupling quantities are interpolated. In the literature, there exist different second-order regularized delta-function variants which are well-suited to use with the
 second-order finite volume solver. However, an appropriate fourth-order regularized delta
-function is not available and its detailed derivation is presented. At last, several numeri-
-cal tests with smooth and non-smooth velocity fields are conducted to observe the rate of
+function is not available and its detailed derivation is presented. At last, several numerical tests with smooth and non-smooth velocity fields are conducted to observe the rate of
 convergence achieved of both IBM solvers.&lt;/p&gt;
 </description>
     </item>
@@ -44,6 +40,16 @@ convergence achieved of both IBM solvers.&lt;/p&gt;
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://KhaledBoulbrachene.github.io/project/openfoam/</guid>
       <description>&lt;p&gt;To address the computations of solid particles in a fluid flow, one has to solve the transient Navier-Stokes (NS) equations in the fluid domain with the imposition of no-slip boundary condition at the interface between the fluid domain and the solid object. One way to achieve this is by the application of arbitrary Lagrangian-Eulerian method, which combines the advantages of both Lagrangian descripton following an individual parcel as it moves through space and Eulerian description focusing on specific locations in the space. However, this method requires adaptive meshing depending on solid particles displacements as time evolves and therefore leads to a substantial computational cost. To avoid repeated re-meshing, the whole computational domain containing the fluid and the solid is meshed with a fixed structured cartesian grid. As a result, the grid will most probably not conform to the solids boundary. Here, the introduction of the solid phase to the governing flow equations is achieved by adequately formulating a source term.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drillstring Failure - Identification, Modeling and Experimental Characterization</title>
+      <link>https://KhaledBoulbrachene.github.io/publication/journal/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://KhaledBoulbrachene.github.io/publication/journal/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -66,17 +72,7 @@ convergence achieved of both IBM solvers.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Drillstring Failure - Identification, Modeling and Experimental Characterization</title>
-      <link>https://KhaledBoulbrachene.github.io/publication/journal-article/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://KhaledBoulbrachene.github.io/publication/journal-article/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Isogeometric analyis of trimmed membrane structures</title>
+      <title>Isogeometric Analyis of Trimmed Membrane Structures</title>
       <link>https://KhaledBoulbrachene.github.io/project/trimmed/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://KhaledBoulbrachene.github.io/project/trimmed/</guid>
@@ -87,7 +83,7 @@ convergence achieved of both IBM solvers.&lt;/p&gt;
     <item>
       <title>Modeling and Experimental Investigations of Drill Pipe Failure</title>
       <link>https://KhaledBoulbrachene.github.io/publication/conf-article/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://KhaledBoulbrachene.github.io/publication/conf-article/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
